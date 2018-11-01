@@ -1,4 +1,5 @@
 console.log('[!] Key Responder Made with '+String.fromCodePoint(0x2764)+' by Xploit @Hackedarcadegames.com [!]');
+
   class Responder {
     constructor(responder, callback/*, toggle*/) {
       try {
