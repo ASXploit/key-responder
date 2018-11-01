@@ -42,14 +42,14 @@ $(function() {
     }
   }
 
-let setHealth = new Responder(49, ()=>{
+/* let setHealth = new Responder(49, ()=>{
   console.log('Health=100!');
 }, true);
 
 let setMana = new Responder(50, ()=>{
   console.log('Mana=100!');
 }, true);
-
+*/
 
 
 
